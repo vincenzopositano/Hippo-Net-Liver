@@ -1,6 +1,6 @@
 # Hippo-Net-Liver
 Code from paper DEEP LEARNING STAGING OF LIVER IRON CONTENT FROM MULTI-ECHO MR IMAGES
-
+https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.28300
 
 A sample data set (15 Patients) is provided.
 
